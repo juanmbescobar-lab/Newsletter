@@ -1,5 +1,5 @@
 // DON'T remove the below import
-import "./styles.css";
+//import "./styles.css";
 window.onload = function () {
   const form = document.getElementById("form_valid");
   const emailInput = document.getElementById("email");
