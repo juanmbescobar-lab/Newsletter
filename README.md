@@ -1,2 +1,7 @@
 # Newsletter
-Practicing git and github
+## Practicing git and github
+
+
+### Work flow explanation
+
+# Juan Manuel Bermudez
